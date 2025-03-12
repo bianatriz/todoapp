@@ -16,7 +16,7 @@ O projeto foi desenvolvido através do framework Angular, utiliando a ferramenta
 
 ## Visualização
 
-Para rodar o proejto localmente, inicie o servidor no com o codigo abaixo, no cmd da pasta do projeto TODOapp:
+Para rodar o projeto localmente, inicie o servidor com o código abaixo, no cmd da pasta do projeto TODOapp:
 
 ```bash
 ng serve
