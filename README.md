@@ -6,7 +6,7 @@ Essa aplicação Frontend, foi desenvolvida durante minhas aula de Frameworks pa
 destinada a gerenciar uma lista de Tarefas a Fazer, permitindo Gravar, Consultar,
 Alterar e Excluir (CRUD) tarefas de uma lista. 
 
-O app foi inspirado na aplicação criada pelo Mozilla Dev, com algumas alterações. Para o projeto original, [acesse aqui](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Svelte_Todo_list_beginning)
+O app foi inspirado na aplicação criada pela Mozilla Dev, com algumas alterações. Para o projeto original, [acesse aqui](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Svelte_Todo_list_beginning)
 
 ## Ferramentas
 
