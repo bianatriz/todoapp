@@ -8,6 +8,8 @@ Alterar e Excluir (CRUD) tarefas de uma lista.
 
 O app foi inspirado na aplicação criada pela Mozilla Dev, com algumas alterações. Para o projeto original, [acesse aqui](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Svelte_Todo_list_beginning)
 
+O nosso foco durante o desenvolvimento do projeo foi a compreensão do framework, já que este foi meu primeiro contato oficial com a ferramenta. 
+
 ## Ferramentas
 
 O projeto foi desenvolvido através do framework Angular, utiliando a ferramenta [Angular CLI](https://github.com/angular/angular-cli) versão 19.2.2.
