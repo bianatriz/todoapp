@@ -1,7 +1,7 @@
 # TODOapp
 
 ## Introdução
-![image](https://github.com/user-attachments/assets/6e2911ff-3992-406f-955e-861c6637af5b)
+![image](https://github.com/user-attachments/assets/61842600-9d7a-4295-8445-25b59ea7a134)
 
 Essa aplicação Frontend, foi desenvolvida durante minhas aula de Frameworks para web. Ela é
 destinada a gerenciar uma lista de Tarefas a Fazer, permitindo Gravar, Consultar,
